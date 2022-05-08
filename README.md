@@ -5,6 +5,6 @@ the report will take us in a journey through time to discover how popularity, ra
 - Certain columns, like ‘cast’ and ‘genres’, contain multiple values separated by pipe (|) characters.
 - The final two columns ending with “_adj” show the budget and revenue of the associated movie in terms of 2010 dollars, accounting for inflation over time.
 ## Objectives: 
-After performing data wrangling, the data is analyzed after imposing some questions and answered using visualizations.
+After performing data wrangling, the data is analyzed after imposing some questions and answered using visualizations. Eventually the conclusions, shortcomings and limitations are stated
 ## Data used:
 Attached the CSV file used in the analysis. [tmdb-movies.zip](https://github.com/MohabElghamry/Investigate-TMDB-Movies_Dataset/files/8647773/tmdb-movies.zip)
